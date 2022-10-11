@@ -1,0 +1,45 @@
+.list-item {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.time {
+  align-items: center;
+  font-size: 15px;
+  color: #475569;
+}
+
+.middle {
+  font-size: 18px;
+  padding-left: 20px;
+  display: flex;
+  flex-grow: 2;
+  align-items: center;
+}
+
+.logo {
+  align-items: center;
+  height: 30px;
+}
+
+.title {
+  align-items: center;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.link {
+  color: #64748b;
+  font-size: 15px;
+}
+
+.delete-icon {
+  height: 22px;
+}
+
+.delete-cont {
+  margin-top: 15px;
+  align-items: center;
+}
